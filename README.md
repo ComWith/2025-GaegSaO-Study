@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/9788998139766.jpg" width="300">
+  <img src="./image/9788998139766.jpg" width="300">
 </p>
 
 ## 👩‍💻👨‍💻 스터디원
