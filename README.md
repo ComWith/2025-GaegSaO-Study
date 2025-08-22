@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/smiinii/poto/main/9788998139766.jpg" width="300">
+  <img src="./images/9788998139766.jpg" width="300">
 </p>
 
 ## 👩‍💻👨‍💻 스터디원
